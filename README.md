@@ -1,4 +1,4 @@
 # HTML-CSS
 
-project by bradtraversy
-<a href = "https://github.com/bradtraversy">
+
+<span>Project by <a href = "https://github.com/bradtraversy">bradtraversy</a></span>
